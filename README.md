@@ -1,4 +1,0 @@
-StackGame
-=========
-
-StackGame
